@@ -1,2 +1,2 @@
 # LeetCode
-LeetCode Solutions
+LeetCode Solutions (Hard/Medium level) (Python/C++/C/Java/CS)
